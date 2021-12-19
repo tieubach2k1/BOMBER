@@ -1,0 +1,7 @@
+#btnStart {
+    -fx-background-color: red;
+}
+
+#btnStart:hover {
+    -fx-background-color: green;
+}
